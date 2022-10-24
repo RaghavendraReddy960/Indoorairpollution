@@ -1,6 +1,12 @@
 # Indoorairpollution
 ESW course project.
 
+Sensors and Equipment used:
+1. Esp32 Microcontroller
+2. MQ9 Grove sensor
+3. MQ6 Gas sensor
+4. BME 680 sensor
+5. 
 
 Arduino Codes are also provided above
 
